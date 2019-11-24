@@ -13,7 +13,7 @@ php artisan key:generate
 3) sudo chmod -R 755 laravel
 
 4) chmod -R o+w laravel/storage
-where laravel - project directory (RSS-Reader)
+where laravel is the project directory (RSS-Reader)
 
 5) In the project directory run "php artisan serve"
 
